@@ -11,3 +11,9 @@ function sumOf(a, b) {
 }
 
 console.log(sumOf(1, 2));
+
+function getRandomName() {
+  return "John";
+}
+
+console.log(getRandomName());
